@@ -4,3 +4,4 @@ libraries:
   - Platform
 paths:
   - day1/
+  - day2/
